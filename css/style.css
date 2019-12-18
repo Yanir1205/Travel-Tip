@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: orange;
+}
+
+.clean-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.grid {
+    display: grid;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 980px;
+}
+
+.logo {
+    flex: 1;
+}
+
+.top-buttons {
+    height: 25%;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.location-name {
+    flex: 1;
+}
+
+.left-content {
+    width: 50%;
+}
+
+.map-container {
+    width: 50%;
+}
